@@ -13,7 +13,7 @@ function Contactpage() {
         <button
           className='contactbtn'
           onClick={() => {
-            window.open("https://www.linkedin.com/in/maciek-leoniak-90a1a926b/");
+            window.open("https://www.linkedin.com/in/maciej-leoniak-90a1a926b/");
           }}
           
         >Say Hello</button>

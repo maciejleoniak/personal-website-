@@ -18,11 +18,11 @@ function Home() {
             <span></span>
             <Text />
             <button onClick={() => {
-              window.open("https://github.com/7799043");
+              window.open("https://github.com/maciejleoniak");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/maciek-leoniak-90a1a926b/");
+              window.open("https://www.linkedin.com/in/maciej-leoniak-90a1a926b/");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
               

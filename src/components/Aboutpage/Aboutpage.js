@@ -10,7 +10,7 @@ function Aboutpage() {
                 <Row className='textbackground'>
                     <Col md={7} >
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
-                        <p className='aboutdetails'>I'm a self-taught coder. I build websites with a focus on providing the experience for everyone using them. Aspiration to full-stack developer. Curious to learn more about developing scalable distribution systems, love problem solving, and care about writing and maintainable code.
+                        <p className='aboutdetails'>A motivated and detail-oriented QA Engineer with a good foundation in programming and experience in test automation projects. Possessing a solid understanding of software testing basics and principles, I am equipped with the necessary skills to ensure high-quality software development. My ability to learn quickly and adapt to new testing environments and tools sets me apart. Proficient in JavaScript. I have the technical skills to create and implement effective automation scripts.
                         </p>
                         <ul className='skilllist'>
                             <Row>
@@ -21,8 +21,8 @@ function Aboutpage() {
                                     <li>Bootsrap 5</li>
                                 </Col>
                                 <Col md={5}>
-                                    <li>React Js</li>
-                                    <li>Redux Js</li>
+                                    <li>Cypress</li>
+                                    <li>Postman</li>
                                     <li>Git/Github</li>
                                 </Col>
                             </Row>

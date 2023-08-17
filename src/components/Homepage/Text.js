@@ -7,8 +7,9 @@ function Text() {
     <Typewriter
       options={{
         strings: [
-          "JavaScript Developer",
-          "Front End Developer",
+          "Engineer",
+          "Quality Tester",
+          "JavaScript Adept"
         ],
         autoStart: true,
         loop: true,
